@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kenisha Kapoor — Writer &amp; Event Organizer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:ital,wght@0,600;0,700;1,600&family=Mukta:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Primary navigation">
+      <a href="#hero" class="brand">Kenisha Kapoor</a>
+      <ul class="nav-links">
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#writing" class="nav-link">Writing</a></li>
+        <li><a href="#resume" class="nav-link">Resume</a></li>
+        <li><a href="mailto:kenishakapoor.official@gmail.com?subject=Event%20or%20creative%20collaboration" class="nav-link nav-cta">Email me</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero">
+      <div class="hero-text">
+        <h1>Kenisha Kapoor</h1>
+        <p class="hero-intro">
+          Hi, hello, and welcome to my world—hope you find what you came looking for.
+          Side note: <em class="pizzazz">a writer, a wannabe event leader, and forever a liver.</em>
+        </p>
+        <div class="hero-actions">
+          <a href="mailto:kenishakapoor.official@gmail.com?subject=Event%20or%20creative%20collaboration" class="btn btn-primary">Email me</a>
+          <a href="#writing" class="btn btn-secondary">Read my writing</a>
+          <a href="https://www.linkedin.com/in/kenisha-kapoor/" target="_blank" rel="noopener noreferrer" class="text-link">LinkedIn</a>
+        </div>
+      </div>
+      <div class="hero-media">
+        <img src="kenisha.jpg" alt="Portrait of Kenisha Kapoor" class="portrait">
+      </div>
+    </section>
+
+    <section id="experience">
+      <h2>What I’ve Built &amp; Managed</h2>
+      <div class="card-grid">
+        <article class="card">
+          <h3>Crimson Summit</h3>
+          <p class="meta">Founder · 2 Editions, Online</p>
+          <p>Co-founded and ran two online editions of a global Model UN and debate platform with a close-knit team, hosting 150–200 delegates worldwide across operations, outreach, and secretariat workflows (currently on pause).</p>
+        </article>
+
+        <article class="card">
+          <h3>ClarityMint Academy</h3>
+          <p class="meta">Social Media Manager · 2026 – Present</p>
+          <p>Manage Instagram and LinkedIn channels end-to-end—handling graphic design, copywriting, stories, regular posting, and audience reachouts.</p>
+        </article>
+
+        <article class="card">
+          <h3>Cyrus MUN</h3>
+          <p class="meta">Secretary General · 2025</p>
+          <p>Led a cross-departmental organizing team to run a virtual conference for 100 global delegates, overseeing registrations, delegate queries, and live event execution.</p>
+        </article>
+
+        <article class="card">
+          <h3>Asian Youth Summit</h3>
+          <p class="meta">Joint Head of Marketing · 2024</p>
+          <p>Led the marketing team across campaign planning, social media promotion, and delegate outreach to drive conference visibility and registrations.</p>
+        </article>
+
+        <article class="card">
+          <h3>Dublieu Educational Services</h3>
+          <p class="meta">Marketing Intern · Oct 2024 – Jan 2025</p>
+          <p>Completed a 3-month marketing internship creating campaign content and streamlining outreach workflows for a student opportunities platform.</p>
+        </article>
+
+        <article class="card">
+          <h3>Debate4Change</h3>
+          <p class="meta">Public Relations Coordinator · 2025</p>
+          <p>Coordinated merchandise, signatory and sponsorship outreach, and social media communications.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="writing">
+      <h2>Writing &amp; Poetry</h2>
+      <p class="section-lead">Opinion columns, open letters, and creative pieces—plus 8 Best Journalist &amp; Special Mention awards across Model UN press corps.</p>
+      <div class="card-grid">
+        <article class="excerpt-card">
+          <h3>A Letter By Women To Women</h3>
+          <p class="meta">Open Letter · July 2024</p>
+          <blockquote>“Your wounds are the reason we see the daylight. Your wounds are the reason there have been more amendments and laws for women... We will stand through it all, face it, fight it, and make changes to the things that are wrong.”</blockquote>
+        </article>
+
+        <article class="excerpt-card">
+          <h3>The Shushed Reality</h3>
+          <p class="meta">Opinion Essay</p>
+          <blockquote>“The problem isn't only the torture; it's the silent truths, the masked lies, the pressure, and the society that just plays the role of bystanders, sipping their tea and watching everything as if it's a Sunday TV show.”</blockquote>
+        </article>
+
+        <article class="excerpt-card">
+          <h3>Safe Recipe: Safer City</h3>
+          <p class="meta">Poetic Satire</p>
+          <blockquote>“Ingredients: 1 cup strict anti-harassment laws, 5 spoons of bystander courage, 3 streetlights per alleyway, pinch of political will. Pro tip: Stir it all together while being loud, aware and bold.”</blockquote>
+        </article>
+
+        <article class="excerpt-card">
+          <h3>Disowned, But Known</h3>
+          <p class="meta">Commentary</p>
+          <blockquote>“Rights denied, excluded from all, beaten to death, disowned by own. Wonder what the crime must be—nothing much, just having the desire to live freely.”</blockquote>
+        </article>
+      </div>
+    </section>
+
+    <section id="credentials">
+      <h2>Education &amp; Highlights</h2>
+      <div class="card-grid">
+        <div class="card">
+          <h3>Education</h3>
+          <ul class="clean-list">
+            <li><strong>BBA in Digital Business and Entrepreneurship</strong> — Indian Institute of Management Bangalore (2026 – 2029 (expected))</li>
+            <li><strong>B.Voc in Retail Management and IT</strong> — Jesus and Mary College, University of Delhi (2026 – 2029 (expected))</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Selected Recognition</h3>
+          <ul class="clean-list">
+            <li>Best Journalist / High Commendation / Special Mention at 12+ conferences including IIT Delhi Rendezvous (NDGYS), Ramjas College (Elion MUN), Hansraj College (YMUN), and Aagosh MUN</li>
+            <li>Subject Topper — Financial Market Management (97/100)</li>
+            <li>4th Position — Symposium, Encomium Commerce Fest (2025)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="resume">
+      <div class="resume-header-bar">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download class="btn btn-secondary">Download my resume (PDF)</a>
+      </div>
+
+      <article id="resume-sheet">
+        <header class="sheet-top">
+          <h3>Kenisha Kapoor</h3>
+          <p class="sheet-contact">kenishakapoor.official@gmail.com · linkedin.com/in/kenisha-kapoor</p>
+          <p class="sheet-profile">Undergraduate business student (IIM Bangalore &amp; JMC, DU), writer, and event organizer experienced in leading 100–200 delegate conferences and digital brand campaigns.</p>
+        </header>
+
+        <div class="sheet-block">
+          <h4>Experience</h4>
+          <ul class="sheet-list">
+            <li><strong>Social Media Manager — ClarityMint Academy</strong> (2026 – Present): Manage Instagram and LinkedIn content design, copywriting, stories, and outreach.</li>
+            <li><strong>Founder — Crimson Summit</strong> (2025): Built and ran two online editions of a global MUN and debate platform for 150–200 delegates across operations and marketing.</li>
+            <li><strong>Secretary General — Cyrus MUN</strong> (2025): Led cross-functional conference team for 100 global delegates, handling registrations and operations.</li>
+            <li><strong>Public Relations Coordinator — Debate4Change</strong> (2025): Managed sponsorships, merchandise coordination, and social media.</li>
+            <li><strong>Marketing Intern — Dublieu Educational Services LLP</strong> (Oct 2024 – Jan 2025): Executed 3-month content and outreach campaigns for student programs.</li>
+            <li><strong>Joint Head of Marketing — Asian Youth Summit</strong> (2024): Directed marketing team, social media campaigns, and delegate outreach.</li>
+          </ul>
+        </div>
+
+        <div class="sheet-block">
+          <h4>Education</h4>
+          <ul class="sheet-list">
+            <li><strong>BBA in Digital Business and Entrepreneurship</strong> — Indian Institute of Management Bangalore (2026 – 2029 (expected))</li>
+            <li><strong>B.Voc in Retail Management and IT</strong> — Jesus and Mary College, University of Delhi (2026 – 2029 (expected))</li>
+          </ul>
+        </div>
+
+        <div class="sheet-block">
+          <h4>Skills</h4>
+          <p class="sheet-skills">Event Operations &amp; Team Leadership (Crimson Summit, Cyrus MUN) · Social Media &amp; Content Design (ClarityMint Academy, Dublieu) · Journalism &amp; Editorial Writing (8× Best Journalist / Press Awards)</p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="signoff">see ya</p>
+    <div class="footer-links">
+      <a href="mailto:kenishakapoor.official@gmail.com?subject=Event%20or%20creative%20collaboration" class="text-link">Email me</a>
+      <a href="https://www.linkedin.com/in/kenisha-kapoor/" target="_blank" rel="noopener noreferrer" class="text-link">LinkedIn</a>
+    </div>
+  </footer>
+
+</body>
+</html>
